@@ -15,19 +15,18 @@ plugins:
 # Site Author
 author:
   name: "Michael Mathu Kariuki"
-  avatar: "/assets/images/bio-photo.jpg
-  bio: "Cyber Security & Multimedia Professional | Youth Tech Trainer | AI Enthusiast"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Cybersecurity learner | Multimedia creator | AI enthusiast"
   location: "Nairobi, Kenya"
+  email: "michael.mathu63@gmail.com"
   links:
-    - label: "Email"
-      icon: "fas fa-envelope"
-      url: "mailto:michael.mathu63@gmail.com"
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
       url: "https://linkedin.com/in/michael-mathu-074226192"
     - label: "GitHub"
       icon: "fab fa-github"
       url: "https://github.com/Michael-Mathu"
+
 
 # Theme settings
 minimal_mistakes_skin: "default"
