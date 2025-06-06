@@ -15,7 +15,7 @@ plugins:
 # Site Author
 author:
   name: "Michael Mathu Kariuki"
-  avatar: "/assets/images/avatar.png" # Optional — add your image here or remove line
+  avatar: "/assets/images/bio-photo.jpg
   bio: "Cyber Security & Multimedia Professional | Youth Tech Trainer | AI Enthusiast"
   location: "Nairobi, Kenya"
   links:
