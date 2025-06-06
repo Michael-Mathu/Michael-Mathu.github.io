@@ -7,5 +7,13 @@ main:
     url: /certifications/
   - title: "Write-ups"
     url: /writeups/
+  - title: "Experience"
+    url: /experience/
+  - title: "Labs"
+    url: /labs/
+  - title: "Tools & Stack"
+    url: /tools/
+  - title: "Author"
+    url: /author/
   - title: "Contact"
     url: /contact/
