@@ -1,8 +1,14 @@
 ---
+layout: single
+title: "About Me"
 permalink: /about/
-title: "About"
+author_profile: true
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I’m **Michael Mathu Kariuki**, a passionate IT and multimedia professional based in Nairobi, Kenya.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Currently pursuing a **Bachelor of Business and Information Technology** at Kabarak University (Expected 2025) and studying **Cyber Security with Cyber Shujaa**, I aim to combine tech and storytelling to empower youth and secure Kenya’s digital landscape.
+
+My interests span **cybersecurity**, **AI**, and **data science**, with a strong background in **media production**. I’ve directed short films and podcasts, modernised IT systems, and trained young creatives in digital storytelling.
+
+[Download My CV](/assets/CV.pdf)
