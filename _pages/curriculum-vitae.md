@@ -17,25 +17,21 @@ Relevant Coursework: Data Analytics, Cybersecurity Basics, Database Systems, AI 
 Focus: Tech-integrated workflows, digital storytelling, and software-driven editing.
 
 
-
 # Work Experience
 
 **IT & Multimedia Lead**  
 *BEAMS, Nairobi* | 2021–2023  
-- Modernized IT infrastructure through procurement of cutting-edge software/hardware, reducing system downtime by 30%.  
-- Secured studio networks via firewall implementation, firmware updates, and CMS migration, minimizing vulnerabilities by 40%.  
-- Directed 2 short films and 15+ podcasts, leveraging analytics to grow audience engagement by 35% among Kenyan youth.  
-- Managed student onboarding and customer service operations, resolving technical queries and improving satisfaction rates.  
-- Led cross-functional teams as project manager, ensuring on-time delivery of documentaries and studio projects.
+- Modernised IT infrastructure, reducing downtime by 30%  
+- Secured networks, cut vulnerabilities by 40%  
+- Directed films/podcasts with measurable engagement growth  
+- Managed onboarding, support, and studio projects
 
 **Part-Time Podcast Producer**  
-*TechTrends Media & Kombini Missionaries* | 2023–2023  
-- AI Experimentation: Streamlined post-production using AI tools (e.g., Descript).  
-- Community Impact: Documentaries on youth initiatives reached 8,000+ viewers.
+*TechTrends Media & Kombini Missionaries* | 2023–Present  
+- Used AI tools for post-production  
+- Reached 8,000+ viewers through youth documentaries
 
-**Chef**  
-*Kitchen Essentials, Nairobi* | 2020–2021  
-- Digitized inventory management, cutting waste by 20%.
+
 
 ---
 
@@ -44,16 +40,14 @@ Focus: Tech-integrated workflows, digital storytelling, and software-driven edit
 - **IT/Cybersecurity:** Network Security, Firmware Management, Basic Python  
 - **AI/Data Tools:** Excel Analytics, AI Editing Software (Runway ML)  
 - **Multimedia:** Adobe Premiere Pro, Podcast Production, Camera Systems  
-- **Soft Skills:** Youth Mentorship, Cross-Functional Collaboration  
-- Procurement & Vendor Management  
-- Client Onboarding & Relations  
-- Website Maintenance (Security/UX)
+- **Soft Skills:** Mentorship, Team Leadership, Vendor Management  
+- Website Maintenance (Security & UX)
 
 ---
 
 # Certifications
 
-- Google Cybersecurity Certificate (In Progress)  
+- Google Cybersecurity Certificate *(In Progress)*  
 - Certificate in Media Production & Filmmaking — BEAMS
 
 ---
